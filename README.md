@@ -10,7 +10,7 @@ Smooth pickup/drop animations, proper carry pose, sprint lock while carrying, an
   * `p_haybale01x`
   * `p_haybale03x`
   * `p_haybale04x`
-* Smooth pickup & drop anims (box carry set), **mech_carry_box:idle** loop while walking
+* Smooth pickup & drop animations, loop while walking
 * Carry pose with per-model **hand-carry offsets** (pre-tuned)
 * Blocks sprint & jump while carrying (walk only)
 * Clear 3D prompts: **[G] Pick up**, **[B] Drop**
