@@ -1,4 +1,4 @@
-# broken_outlaws_fun
+# Broken Outlaws – Fun Hay Bale Carry (RedM / VORP)
 
 A tiny, fun **RedM** script that lets players **pick up, carry, and drop** hay bales in the world.
 Smooth pickup/drop animations, proper carry pose, sprint lock while carrying, and built-in safeties so nobody gets stuck. Optional auto-delete cleans up dropped bales after a while.
